@@ -35,7 +35,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları s
 1. Repoyu Klonlayın
 Bash
 
-git clone https://github.com/KULLANICI_ADINIZ/makine_ogrenmesi_proje2.git
+git clone https://github.com/ozgezaraozcelik/makine_ogrenmesi_proje2.git
 cd makine_ogrenmesi_proje2
 2. Sanal Ortam Oluşturun (Önerilen)
 Python kütüphanelerinin çakışmasını önlemek için sanal ortam (venv) kullanmanız önerilir.
@@ -111,6 +111,6 @@ Geliştirici: Özge Zara Özçelik
 
 Ders: BLG-407 Makine Öğrenmesi
 
-Email: [E-posta adresiniz]
+Email: zaraozcelik1@gmail.com
 
-GitHub: [GitHub Profil Linkiniz]
+GitHub: https://github.com/ozgezaraozcelik
